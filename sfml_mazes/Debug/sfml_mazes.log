@@ -1,0 +1,12 @@
+﻿  Main.cpp
+F:\Projects\c_plus_plus\sfml_mazes\sfml_mazes\Main.cpp(15,54): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+F:\Projects\c_plus_plus\sfml_mazes\sfml_mazes\Main.cpp(15,40): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+  Maze.cpp
+F:\Projects\c_plus_plus\sfml_mazes\sfml_mazes\Maze.cpp(32,20): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\c_plus_plus\sfml_mazes\sfml_mazes\Maze.cpp(41,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Projects\c_plus_plus\sfml_mazes\sfml_mazes\Maze.cpp(50,24): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\c_plus_plus\sfml_mazes\sfml_mazes\Maze.cpp(243,20): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\c_plus_plus\sfml_mazes\sfml_mazes\Maze.cpp(261,20): warning C4018: '<': signed/unsigned mismatch
+F:\Projects\c_plus_plus\sfml_mazes\sfml_mazes\Maze.cpp(283,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  sfml_mazes.vcxproj -> F:\Projects\c_plus_plus\sfml_mazes\Debug\sfml_mazes.exe
